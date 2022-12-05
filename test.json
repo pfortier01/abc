@@ -1,12 +1,14 @@
-[
-    {
-        "name": "John",
-        "age": 30,
-        "car": null
-    },
-    {
-        "name": "Steve",
-        "age": 34,
-        "car": "toyota"
-    }
-]
+{
+    "Users": [
+        {
+            "name": "John",
+            "age": 30,
+            "car": null
+        },
+        {
+            "name": "Steve",
+            "age": 34,
+            "car": "toyota"
+        }
+    ]
+}
